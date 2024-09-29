@@ -1,7 +1,33 @@
-# PA 00
+PA00
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+### My self-introduction
+*  Nice to meet you all guys! My name is Weishan and I am a MAPSS student in the anthropology track.
 
+## My hobbies
+* *cooking*
+* **sleep**
+* *watch movies*
+
+# A photo (A mountain from Qinghai, China):
+![a photo](greatview.jpeg)
+
+# Two links to two of my favorite songs:
+[moon from iri](https://www.youtube.com/watch?v=eqCglIc5-zQ)
+[dear reader from Taylor](https://www.youtube.com/watch?v=X0Jti9F-oQA)
+
+# lists:
+- lst1: workout of a week
+    + running
+    + weightslifting
+
+- lst2: diet of a week
+    + cake
+    + hotpot
+
+# Summary
+* Understand git clone, git commit, git add, and git push
+* Understand the different Markdowns! I find it really interesting to understand how different markdowns can converge and change the format of the contents we put in Readme! 
+* Surprise: I love the video on youtube which introduced how GitHub tracks and assists teams to work together to help the tractors work better!
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
 * Headers (one or more)
