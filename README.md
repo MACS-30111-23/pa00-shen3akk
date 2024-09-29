@@ -1,6 +1,6 @@
 PA00
 
-### My self-introduction
+# My self-introduction
 *  Nice to meet you all guys! My name is Weishan and I am a MAPSS student in the anthropology track.
 
 ## My hobbies
@@ -8,14 +8,14 @@ PA00
 * **sleep**
 * *watch movies*
 
-# A photo (A mountain from Qinghai, China):
+### A photo (A mountain from Qinghai, China):
 ![a photo](greatview.jpeg)
 
-# Two links to two of my favorite songs:
+### Two links to two of my favorite songs:
 [moon from iri](https://www.youtube.com/watch?v=eqCglIc5-zQ)
 [dear reader from Taylor](https://www.youtube.com/watch?v=X0Jti9F-oQA)
 
-# lists:
+### lists:
 - lst1: workout of a week
     + running
     + weightslifting
@@ -25,7 +25,7 @@ PA00
     + hotpot
 
 # Summary
-* Understand git clone, git commit, git add, and git push
+* **Understand git clone, git commit, git add, and git push**
 * Understand the different Markdowns! I find it really interesting to understand how different markdowns can converge and change the format of the contents we put in Readme! 
 * Surprise: I love the video on youtube which introduced how GitHub tracks and assists teams to work together to help the tractors work better!
 
